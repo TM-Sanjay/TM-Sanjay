@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TM-Sanjay
+- 👋 Hi, I’m @tm-sanjay
 - 👀 I’m interested in software and hardware development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on any interesting projects
